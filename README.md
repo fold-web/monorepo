@@ -1,3 +1,24 @@
+# Monorepo
+
+### Install monorepo tooling
+
+* npm install
+* git stash if package-lock project name got updated
+* npm install turbo --global to [install turbo cli](https://turbo.build/repo/docs/installing#install-globally)
+* npm run build
+
+### Run a dev server
+
+* TBD
+
+
+----
+
+   #### Everything below this line is placeholder README for turborepo kitchen sink starter
+
+----
+
+
 # Turborepo kitchen sink starter
 
 This is an official starter Turborepo with multiple meta-frameworks all working in harmony and sharing packages.
